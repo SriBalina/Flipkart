@@ -1,0 +1,201 @@
+user_id,age,gender,state,favorite_category
+U001,23,Female,Karnataka,Books
+U002,45,Male,Andhra Pradesh,Books
+U003,41,Male,Uttar Pradesh,Beauty
+U004,53,Female,Andhra Pradesh,Clothing
+U005,32,Female,Karnataka,Books
+U006,49,Male,Uttar Pradesh,Beauty
+U007,35,Female,Maharashtra,Clothing
+U008,25,Female,Tamil Nadu,Beauty
+U009,29,Female,Uttar Pradesh,Electronics
+U010,24,Female,Karnataka,Electronics
+U011,31,Male,Andhra Pradesh,Electronics
+U012,35,Male,Tamil Nadu,Clothing
+U013,59,Female,Tamil Nadu,Books
+U014,57,Female,Karnataka,Clothing
+U015,48,Female,Tamil Nadu,Books
+U016,49,Female,Uttar Pradesh,Electronics
+U017,47,Female,Andhra Pradesh,Beauty
+U018,24,Female,Maharashtra,Books
+U019,45,Male,Tamil Nadu,Clothing
+U020,39,Male,Karnataka,Beauty
+U021,47,Male,Uttar Pradesh,Clothing
+U022,47,Male,Tamil Nadu,Electronics
+U023,48,Male,Uttar Pradesh,Books
+U024,28,Female,Andhra Pradesh,Beauty
+U025,48,Female,Uttar Pradesh,Books
+U026,18,Male,Andhra Pradesh,Books
+U027,50,Female,Uttar Pradesh,Books
+U028,34,Male,Uttar Pradesh,Electronics
+U029,60,Male,Uttar Pradesh,Books
+U030,18,Male,Tamil Nadu,Books
+U031,37,Female,Maharashtra,Clothing
+U032,20,Male,Andhra Pradesh,Books
+U033,33,Male,Maharashtra,Electronics
+U034,42,Male,Maharashtra,Clothing
+U035,37,Male,Andhra Pradesh,Books
+U036,53,Female,Uttar Pradesh,Clothing
+U037,50,Male,Tamil Nadu,Electronics
+U038,28,Female,Andhra Pradesh,Electronics
+U039,47,Male,Uttar Pradesh,Clothing
+U040,37,Female,Andhra Pradesh,Books
+U041,48,Female,Karnataka,Clothing
+U042,55,Male,Maharashtra,Clothing
+U043,39,Male,Tamil Nadu,Beauty
+U044,21,Male,Maharashtra,Beauty
+U045,57,Male,Karnataka,Electronics
+U046,39,Male,Tamil Nadu,Clothing
+U047,45,Male,Andhra Pradesh,Books
+U048,34,Male,Maharashtra,Clothing
+U049,38,Female,Tamil Nadu,Books
+U050,38,Female,Karnataka,Books
+U051,60,Female,Karnataka,Clothing
+U052,22,Male,Andhra Pradesh,Electronics
+U053,60,Male,Maharashtra,Books
+U054,51,Male,Maharashtra,Books
+U055,41,Female,Andhra Pradesh,Beauty
+U056,59,Female,Uttar Pradesh,Clothing
+U057,57,Male,Uttar Pradesh,Beauty
+U058,40,Male,Maharashtra,Clothing
+U059,42,Male,Tamil Nadu,Beauty
+U060,48,Female,Uttar Pradesh,Beauty
+U061,58,Female,Andhra Pradesh,Electronics
+U062,23,Male,Karnataka,Clothing
+U063,43,Female,Tamil Nadu,Clothing
+U064,47,Male,Tamil Nadu,Clothing
+U065,26,Male,Tamil Nadu,Beauty
+U066,44,Female,Karnataka,Books
+U067,45,Male,Uttar Pradesh,Beauty
+U068,39,Female,Uttar Pradesh,Electronics
+U069,40,Male,Uttar Pradesh,Clothing
+U070,40,Female,Karnataka,Electronics
+U071,36,Female,Andhra Pradesh,Beauty
+U072,58,Female,Andhra Pradesh,Electronics
+U073,42,Male,Karnataka,Electronics
+U074,60,Female,Maharashtra,Books
+U075,19,Male,Karnataka,Electronics
+U076,24,Male,Andhra Pradesh,Beauty
+U077,30,Female,Tamil Nadu,Electronics
+U078,54,Female,Tamil Nadu,Books
+U079,26,Female,Karnataka,Electronics
+U080,51,Female,Maharashtra,Electronics
+U081,21,Male,Karnataka,Clothing
+U082,45,Male,Andhra Pradesh,Beauty
+U083,51,Female,Tamil Nadu,Beauty
+U084,28,Male,Tamil Nadu,Beauty
+U085,20,Female,Maharashtra,Beauty
+U086,59,Male,Uttar Pradesh,Clothing
+U087,48,Male,Karnataka,Books
+U088,24,Male,Tamil Nadu,Electronics
+U089,52,Male,Uttar Pradesh,Clothing
+U090,42,Female,Tamil Nadu,Clothing
+U091,22,Male,Karnataka,Books
+U092,53,Male,Uttar Pradesh,Books
+U093,54,Female,Tamil Nadu,Books
+U094,32,Male,Uttar Pradesh,Electronics
+U095,51,Female,Maharashtra,Clothing
+U096,44,Male,Maharashtra,Clothing
+U097,20,Female,Andhra Pradesh,Beauty
+U098,43,Female,Maharashtra,Beauty
+U099,52,Male,Maharashtra,Clothing
+U100,28,Male,Tamil Nadu,Beauty
+U101,50,Female,Maharashtra,Books
+U102,57,Female,Maharashtra,Clothing
+U103,24,Male,Uttar Pradesh,Electronics
+U104,24,Male,Karnataka,Beauty
+U105,47,Male,Tamil Nadu,Electronics
+U106,48,Female,Karnataka,Beauty
+U107,55,Female,Uttar Pradesh,Beauty
+U108,33,Female,Maharashtra,Electronics
+U109,28,Female,Tamil Nadu,Books
+U110,43,Male,Andhra Pradesh,Beauty
+U111,37,Male,Andhra Pradesh,Beauty
+U112,40,Male,Andhra Pradesh,Beauty
+U113,25,Male,Andhra Pradesh,Electronics
+U114,41,Female,Karnataka,Clothing
+U115,42,Male,Andhra Pradesh,Electronics
+U116,18,Female,Tamil Nadu,Clothing
+U117,40,Female,Tamil Nadu,Books
+U118,39,Female,Andhra Pradesh,Beauty
+U119,40,Female,Karnataka,Books
+U120,57,Female,Andhra Pradesh,Electronics
+U121,52,Male,Uttar Pradesh,Electronics
+U122,40,Male,Tamil Nadu,Electronics
+U123,58,Female,Tamil Nadu,Clothing
+U124,53,Male,Tamil Nadu,Books
+U125,48,Female,Andhra Pradesh,Beauty
+U126,52,Female,Tamil Nadu,Beauty
+U127,30,Female,Karnataka,Books
+U128,56,Male,Andhra Pradesh,Books
+U129,43,Female,Andhra Pradesh,Electronics
+U130,38,Male,Tamil Nadu,Books
+U131,54,Female,Andhra Pradesh,Books
+U132,26,Female,Andhra Pradesh,Beauty
+U133,37,Male,Uttar Pradesh,Electronics
+U134,42,Female,Maharashtra,Beauty
+U135,28,Male,Maharashtra,Clothing
+U136,34,Male,Andhra Pradesh,Clothing
+U137,35,Female,Maharashtra,Beauty
+U138,29,Male,Andhra Pradesh,Beauty
+U139,37,Male,Karnataka,Books
+U140,22,Female,Tamil Nadu,Books
+U141,33,Female,Andhra Pradesh,Electronics
+U142,32,Male,Karnataka,Beauty
+U143,36,Female,Uttar Pradesh,Clothing
+U144,57,Female,Uttar Pradesh,Books
+U145,30,Female,Andhra Pradesh,Books
+U146,18,Male,Maharashtra,Beauty
+U147,18,Female,Tamil Nadu,Beauty
+U148,23,Female,Tamil Nadu,Electronics
+U149,50,Female,Uttar Pradesh,Beauty
+U150,20,Male,Tamil Nadu,Beauty
+U151,23,Male,Karnataka,Electronics
+U152,28,Female,Maharashtra,Beauty
+U153,26,Female,Maharashtra,Books
+U154,32,Male,Uttar Pradesh,Clothing
+U155,18,Male,Andhra Pradesh,Electronics
+U156,54,Female,Karnataka,Clothing
+U157,48,Male,Karnataka,Clothing
+U158,44,Female,Karnataka,Beauty
+U159,26,Female,Karnataka,Electronics
+U160,27,Female,Andhra Pradesh,Beauty
+U161,32,Male,Karnataka,Clothing
+U162,44,Female,Andhra Pradesh,Beauty
+U163,47,Female,Karnataka,Books
+U164,40,Male,Tamil Nadu,Books
+U165,58,Female,Andhra Pradesh,Books
+U166,20,Male,Karnataka,Beauty
+U167,47,Male,Maharashtra,Clothing
+U168,56,Female,Karnataka,Beauty
+U169,44,Male,Karnataka,Clothing
+U170,53,Male,Maharashtra,Electronics
+U171,40,Female,Andhra Pradesh,Clothing
+U172,33,Female,Uttar Pradesh,Clothing
+U173,51,Male,Karnataka,Beauty
+U174,33,Male,Maharashtra,Clothing
+U175,19,Male,Andhra Pradesh,Books
+U176,24,Female,Maharashtra,Clothing
+U177,20,Male,Tamil Nadu,Clothing
+U178,25,Male,Maharashtra,Beauty
+U179,43,Male,Tamil Nadu,Books
+U180,18,Male,Andhra Pradesh,Beauty
+U181,21,Male,Uttar Pradesh,Books
+U182,32,Female,Uttar Pradesh,Electronics
+U183,47,Female,Andhra Pradesh,Books
+U184,34,Male,Tamil Nadu,Electronics
+U185,39,Female,Andhra Pradesh,Beauty
+U186,34,Male,Maharashtra,Clothing
+U187,47,Female,Andhra Pradesh,Clothing
+U188,32,Female,Andhra Pradesh,Beauty
+U189,34,Male,Maharashtra,Clothing
+U190,42,Female,Uttar Pradesh,Beauty
+U191,22,Male,Karnataka,Clothing
+U192,41,Male,Karnataka,Beauty
+U193,32,Female,Tamil Nadu,Beauty
+U194,44,Female,Andhra Pradesh,Beauty
+U195,31,Female,Maharashtra,Electronics
+U196,60,Female,Tamil Nadu,Clothing
+U197,35,Female,Tamil Nadu,Clothing
+U198,39,Male,Andhra Pradesh,Electronics
+U199,19,Male,Karnataka,Beauty
+U200,46,Male,Tamil Nadu,Beauty

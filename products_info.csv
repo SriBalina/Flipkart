@@ -1,0 +1,101 @@
+product_id,category,brand,avg_rating,num_reviews,num_purchases,num_views
+P001,Clothing,"Steele, Maldonado and Terrell",3.9,170,155,3233
+P002,Electronics,Carr and Sons,3.73,170,156,2890
+P003,Electronics,"Sampson, Bennett and Wilson",4.67,144,70,1445
+P004,Beauty,"Sharp, Perez and Williams",3.81,133,82,2275
+P005,Books,Wilson LLC,4.79,275,107,1620
+P006,Books,"Thomas, Anderson and Adams",3.67,91,80,3697
+P007,Electronics,Ford Group,4.05,280,139,3660
+P008,Books,"Barber, Beasley and Moss",4.72,163,124,4393
+P009,Beauty,Padilla-Francis,4.54,253,188,1513
+P010,Electronics,Harris-Ross,4.6,127,109,4744
+P011,Clothing,Buck Ltd,4.31,161,175,4708
+P012,Electronics,Mcfarland-Anderson,3.79,65,136,3896
+P013,Books,"Mitchell, Chaney and Steele",4.47,68,73,3884
+P014,Books,"Dodson, Martin and Carter",4.7,155,139,3478
+P015,Electronics,Allison-Rosales,4.47,104,156,3572
+P016,Electronics,Vasquez Ltd,4.71,277,112,3740
+P017,Beauty,Kennedy-Hunter,4.68,156,169,3800
+P018,Beauty,"Jennings, Davis and Ward",4.97,193,136,4928
+P019,Clothing,Gonzales-Frey,3.89,296,125,3708
+P020,Books,Russell LLC,3.76,299,188,3865
+P021,Books,Cook-Wang,4.32,114,174,1842
+P022,Books,"Horn, Riggs and Grant",3.69,247,104,3038
+P023,Electronics,Wade PLC,4.06,92,191,2267
+P024,Books,Rubio-Daugherty,3.59,117,67,3525
+P025,Beauty,Black-Williams,4.59,77,53,3558
+P026,Beauty,"Hill, Wells and Reynolds",3.57,247,130,1571
+P027,Clothing,"Ferguson, Williams and Berry",4.18,55,119,2822
+P028,Clothing,Martin-Davis,4.41,103,98,3411
+P029,Electronics,"Wright, Sanders and Bean",4.77,152,97,2042
+P030,Clothing,Vargas-Osborn,4.04,73,55,2538
+P031,Beauty,"Wells, Bryant and Sanchez",3.66,126,81,3648
+P032,Clothing,Solomon Group,4.47,247,131,2774
+P033,Books,"Miller, Simmons and Diaz",4.19,202,76,1391
+P034,Beauty,Baker LLC,3.99,255,124,2310
+P035,Beauty,"Bridges, Nicholson and Lopez",4.8,157,104,3991
+P036,Books,Walker-Greene,3.52,147,66,2130
+P037,Books,Oliver-Garcia,3.56,237,114,3917
+P038,Beauty,"Morris, King and Walker",3.52,274,171,2284
+P039,Electronics,Romero-Jimenez,3.9,264,148,1412
+P040,Clothing,"Greer, Boyd and Burns",4.89,107,60,2330
+P041,Beauty,Leach-Flynn,4.6,206,186,1874
+P042,Electronics,Jones Group,4.64,89,122,4803
+P043,Books,Sullivan-Adams,3.85,153,109,4558
+P044,Books,"Daniels, Shaw and Jackson",3.68,97,194,1011
+P045,Electronics,"Wright, Snow and Lang",4.37,272,53,4805
+P046,Clothing,"Vaughan, Kirby and Thomas",4.18,77,95,1983
+P047,Clothing,Summers and Sons,4.55,234,143,2007
+P048,Electronics,Zavala-Archer,4.63,162,54,4603
+P049,Beauty,Blevins and Sons,4.61,72,140,2757
+P050,Electronics,Young-Thomas,3.88,223,103,4604
+P051,Books,Mendoza Group,3.52,262,100,2964
+P052,Clothing,Davenport Group,4.62,53,77,3834
+P053,Electronics,West-Thomas,4.07,270,180,1934
+P054,Clothing,"Cobb, Little and Ashley",4.28,151,198,4877
+P055,Clothing,Ross and Sons,4.76,274,101,3815
+P056,Beauty,Molina and Sons,4.01,137,109,2853
+P057,Electronics,Owens-Wilson,3.89,138,61,1093
+P058,Books,Hernandez Group,4.94,89,114,2312
+P059,Beauty,Smith Ltd,4.14,270,139,1622
+P060,Electronics,Banks PLC,4.81,55,128,3277
+P061,Electronics,"Lane, Mason and Hickman",4.13,286,150,2470
+P062,Books,Riley-Guzman,4.73,100,199,2870
+P063,Electronics,Williams Ltd,4.93,85,78,1030
+P064,Clothing,"Jackson, Harris and Robinson",4.96,289,83,2517
+P065,Books,"Jones, Chandler and Edwards",4.09,222,69,1856
+P066,Books,Hayes and Sons,4.28,284,83,4640
+P067,Books,Williamson Group,4.45,293,200,3348
+P068,Books,Dawson-Anderson,4.86,175,93,4413
+P069,Beauty,"Rocha, Harmon and Thomas",3.95,288,155,2421
+P070,Clothing,Hines PLC,3.58,299,182,4142
+P071,Beauty,Porter-Roberson,3.74,130,174,2539
+P072,Beauty,Foster-Holland,4.47,67,185,2859
+P073,Clothing,"Davis, Walton and Grant",4.77,155,140,4484
+P074,Clothing,"Chen, Lynn and Martinez",3.62,277,139,1780
+P075,Beauty,Stuart-Ward,3.85,89,92,2820
+P076,Beauty,"Franklin, Reed and Hale",3.85,239,73,4182
+P077,Electronics,Stark LLC,4.82,254,182,1240
+P078,Books,Farley and Sons,3.64,286,154,4579
+P079,Books,Walsh Inc,4.86,100,189,1742
+P080,Books,"Copeland, Knight and Brooks",4.3,242,133,4737
+P081,Electronics,Cooper Inc,4.49,165,74,1190
+P082,Electronics,Boone-Smith,3.72,267,171,3590
+P083,Beauty,"Gray, Ortiz and Martinez",4.8,147,143,4917
+P084,Beauty,White Inc,3.85,68,62,4305
+P085,Electronics,Smith LLC,4.59,58,94,3589
+P086,Beauty,Phillips-Rasmussen,4.96,99,139,2580
+P087,Clothing,Esparza-Young,3.53,89,108,2795
+P088,Clothing,Smith-Wells,3.62,149,84,3826
+P089,Beauty,Oneill PLC,3.6,106,64,1642
+P090,Books,Montgomery Group,3.58,236,195,3756
+P091,Electronics,"Miles, Parks and Sanchez",3.58,146,133,2594
+P092,Books,Johns-Berry,3.84,264,198,4878
+P093,Electronics,"Robinson, Morton and Hamilton",4.29,224,108,2666
+P094,Electronics,Martin and Sons,4.23,263,96,2806
+P095,Beauty,Bennett-Mccarthy,4.61,78,155,2791
+P096,Electronics,Clements Ltd,4.19,160,128,2247
+P097,Electronics,Fields-Hughes,4.82,115,74,2796
+P098,Clothing,"Webb, Hayes and James",3.69,113,105,4781
+P099,Electronics,"Johnson, Gilbert and Garcia",4.95,272,141,2707
+P100,Beauty,Benson LLC,4.82,123,125,3839
